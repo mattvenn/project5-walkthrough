@@ -1,0 +1,119 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1647353468
+<< obsli1 >>
+rect 1104 2159 18860 47345
+<< obsm1 >>
+rect 14 2128 19398 47376
+<< metal2 >>
+rect 2594 49200 2650 50000
+rect 10966 49200 11022 50000
+rect 19338 49200 19394 50000
+rect 18 0 74 800
+rect 8390 0 8446 800
+rect 16762 0 16818 800
+<< obsm2 >>
+rect 20 49144 2538 49314
+rect 2706 49144 10910 49314
+rect 11078 49144 19282 49314
+rect 20 856 19392 49144
+rect 130 800 8334 856
+rect 8502 800 16706 856
+rect 16874 800 19392 856
+<< metal3 >>
+rect 0 44208 800 44328
+rect 19200 40808 20000 40928
+rect 0 35368 800 35488
+rect 19200 31968 20000 32088
+rect 0 26528 800 26648
+rect 19200 23128 20000 23248
+rect 0 17688 800 17808
+rect 19200 14288 20000 14408
+rect 0 8848 800 8968
+rect 19200 5448 20000 5568
+<< obsm3 >>
+rect 800 44408 19200 47361
+rect 880 44128 19200 44408
+rect 800 41008 19200 44128
+rect 800 40728 19120 41008
+rect 800 35568 19200 40728
+rect 880 35288 19200 35568
+rect 800 32168 19200 35288
+rect 800 31888 19120 32168
+rect 800 26728 19200 31888
+rect 880 26448 19200 26728
+rect 800 23328 19200 26448
+rect 800 23048 19120 23328
+rect 800 17888 19200 23048
+rect 880 17608 19200 17888
+rect 800 14488 19200 17608
+rect 800 14208 19120 14488
+rect 800 9048 19200 14208
+rect 880 8768 19200 9048
+rect 800 5648 19200 8768
+rect 800 5368 19120 5648
+rect 800 2143 19200 5368
+<< metal4 >>
+rect 3910 2128 4230 47376
+rect 6874 2128 7194 47376
+rect 9840 2128 10160 47376
+rect 12805 2128 13125 47376
+rect 15771 2128 16091 47376
+<< obsm4 >>
+rect 4310 2128 6794 47376
+rect 7274 2128 9760 47376
+rect 10240 2128 12725 47376
+rect 13205 2128 15691 47376
+<< labels >>
+rlabel metal3 s 19200 31968 20000 32088 6 clk
+port 1 nsew signal input
+rlabel metal3 s 0 35368 800 35488 6 enc0_a
+port 2 nsew signal input
+rlabel metal3 s 19200 40808 20000 40928 6 enc0_b
+port 3 nsew signal input
+rlabel metal3 s 19200 14288 20000 14408 6 enc1_a
+port 4 nsew signal input
+rlabel metal2 s 2594 49200 2650 50000 6 enc1_b
+port 5 nsew signal input
+rlabel metal2 s 18 0 74 800 6 enc2_a
+port 6 nsew signal input
+rlabel metal3 s 19200 5448 20000 5568 6 enc2_b
+port 7 nsew signal input
+rlabel metal2 s 8390 0 8446 800 6 io_oeb[0]
+port 8 nsew signal output
+rlabel metal2 s 10966 49200 11022 50000 6 io_oeb[1]
+port 9 nsew signal output
+rlabel metal3 s 0 8848 800 8968 6 io_oeb[2]
+port 10 nsew signal output
+rlabel metal3 s 0 17688 800 17808 6 io_oeb[3]
+port 11 nsew signal output
+rlabel metal2 s 19338 49200 19394 50000 6 pwm0_out
+port 12 nsew signal output
+rlabel metal2 s 16762 0 16818 800 6 pwm1_out
+port 13 nsew signal output
+rlabel metal3 s 0 26528 800 26648 6 pwm2_out
+port 14 nsew signal output
+rlabel metal3 s 0 44208 800 44328 6 reset
+port 15 nsew signal input
+rlabel metal3 s 19200 23128 20000 23248 6 sync
+port 16 nsew signal output
+rlabel metal4 s 3910 2128 4230 47376 6 vccd1
+port 17 nsew power input
+rlabel metal4 s 9840 2128 10160 47376 6 vccd1
+port 17 nsew power input
+rlabel metal4 s 15771 2128 16091 47376 6 vccd1
+port 17 nsew power input
+rlabel metal4 s 6874 2128 7194 47376 6 vssd1
+port 18 nsew ground input
+rlabel metal4 s 12805 2128 13125 47376 6 vssd1
+port 18 nsew ground input
+<< properties >>
+string FIXED_BBOX 0 0 20000 50000
+string LEFclass BLOCK
+string LEFview TRUE
+string GDS_END 1854932
+string GDS_FILE /home/matt/work/asic-workshop/shuttle5/caravel_user_project/openlane/rgb_mixer/runs/rgb_mixer/results/finishing/rgb_mixer.magic.gds
+string GDS_START 295166
+<< end >>
+
