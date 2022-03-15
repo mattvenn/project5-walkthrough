@@ -1,0 +1,73 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Tue Mar 15 10:50:18 2022
+[*]
+[dumpfile] "/home/matt/work/asic-workshop/shuttle5/caravel_user_project/verilog/dv/rgb_mixer_basic/rgb_mixer.vcd"
+[dumpfile_mtime] "Tue Mar 15 10:49:21 2022"
+[dumpfile_size] 479975
+[savefile] "/home/matt/work/asic-workshop/shuttle5/caravel_user_project/verilog/dv/rgb_mixer_basic/rgb_mixer_basic.gtkw"
+[timestart] 0
+[size] 1735 941
+[pos] 391 115
+*-27.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] rgb_mixer_tb.
+[sst_width] 343
+[signals_width] 264
+[sst_expanded] 1
+[sst_vpaned_height] 274
+@28
+rgb_mixer_tb.power1
+rgb_mixer_tb.power2
+rgb_mixer_tb.power3
+rgb_mixer_tb.power4
+rgb_mixer_tb.RSTB
+rgb_mixer_tb.clock
+rgb_mixer_tb.flash_clk
+rgb_mixer_tb.flash_csb
+rgb_mixer_tb.flash_io0
+rgb_mixer_tb.flash_io1
+@800023
+rgb_mixer_tb.mprj_io[37:0]
+@29
+(0)rgb_mixer_tb.mprj_io[37:0]
+(1)rgb_mixer_tb.mprj_io[37:0]
+(2)rgb_mixer_tb.mprj_io[37:0]
+(3)rgb_mixer_tb.mprj_io[37:0]
+(4)rgb_mixer_tb.mprj_io[37:0]
+(5)rgb_mixer_tb.mprj_io[37:0]
+(6)rgb_mixer_tb.mprj_io[37:0]
+(7)rgb_mixer_tb.mprj_io[37:0]
+(8)rgb_mixer_tb.mprj_io[37:0]
+(9)rgb_mixer_tb.mprj_io[37:0]
+(10)rgb_mixer_tb.mprj_io[37:0]
+(11)rgb_mixer_tb.mprj_io[37:0]
+(12)rgb_mixer_tb.mprj_io[37:0]
+(13)rgb_mixer_tb.mprj_io[37:0]
+(14)rgb_mixer_tb.mprj_io[37:0]
+(15)rgb_mixer_tb.mprj_io[37:0]
+(16)rgb_mixer_tb.mprj_io[37:0]
+(17)rgb_mixer_tb.mprj_io[37:0]
+(18)rgb_mixer_tb.mprj_io[37:0]
+(19)rgb_mixer_tb.mprj_io[37:0]
+(20)rgb_mixer_tb.mprj_io[37:0]
+(21)rgb_mixer_tb.mprj_io[37:0]
+(22)rgb_mixer_tb.mprj_io[37:0]
+(23)rgb_mixer_tb.mprj_io[37:0]
+(24)rgb_mixer_tb.mprj_io[37:0]
+(25)rgb_mixer_tb.mprj_io[37:0]
+(26)rgb_mixer_tb.mprj_io[37:0]
+(27)rgb_mixer_tb.mprj_io[37:0]
+(28)rgb_mixer_tb.mprj_io[37:0]
+(29)rgb_mixer_tb.mprj_io[37:0]
+(30)rgb_mixer_tb.mprj_io[37:0]
+(31)rgb_mixer_tb.mprj_io[37:0]
+(32)rgb_mixer_tb.mprj_io[37:0]
+(33)rgb_mixer_tb.mprj_io[37:0]
+(34)rgb_mixer_tb.mprj_io[37:0]
+(35)rgb_mixer_tb.mprj_io[37:0]
+(36)rgb_mixer_tb.mprj_io[37:0]
+(37)rgb_mixer_tb.mprj_io[37:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
